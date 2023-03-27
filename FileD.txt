@@ -1,2 +1,0 @@
-This is FileD.
-This file is created in FeatureA branch
